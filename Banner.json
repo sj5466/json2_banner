@@ -1,0 +1,21 @@
+{
+  "status": "ok",
+  "status_message": "Query was successful",
+  "data":{
+    "count":1,
+    "number":1,
+    "bannerInfor":[
+      {
+        "id":"0",
+        "title":"배너 영역",
+        "text1":"베이커리 브랜드",
+        "text2":"뚜레쥬르",
+        "text3":"매일매일, 하루 3번 매장에서 직접 빵을 굽는 일.",
+        "desc1":"다른 베이커리에서 쉽게 도전하지 못했던 혁신적인 시도로",
+        "desc2":"베이커리 시장에 첫 발을 내딛은 뚜레쥬르.",
+        "text4":"신선한 재료 이야기",
+        "text5":"직접 구운 빵"
+      }
+    ]
+  }
+}
